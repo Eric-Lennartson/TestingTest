@@ -1,5 +1,7 @@
 Hey we're on a different branch! yooooo.
 
+making another branch for the end of the viddddd. 
+
 what an amazing test
 
 test
@@ -15,6 +17,6 @@ Almost forgot. Now I've made an edit to it
 
 This one is the most recent
 It would be the second edit.
-
-
-branch
+branchREDUX
+branchREDUX
+branchREDUX
